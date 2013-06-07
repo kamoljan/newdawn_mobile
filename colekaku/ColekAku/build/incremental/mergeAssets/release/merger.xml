@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/kamol/work/android/colekaku/ColekAku/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/kamol/work/android/colekaku/ColekAku/src/release/assets" />
+    </dataSet>
+
+</merger>
